@@ -1,0 +1,39 @@
+/*CSS CODE*/
+*{
+    margin: 0;
+    padding: 0;
+}
+.container-fluid{
+    background-color:  #3b61e0;
+    height: 200px;
+    
+}
+.navbar-brand h1{
+    position: absolute ;
+    bottom :20px;
+    justify-content: flex-end;
+    color: aliceblue;
+    
+}
+.nav-item {
+    position: relative;
+    height: auto;
+}
+#carouselExampleControls .carousel-item img{
+    
+    height: 260px;
+    background-size: cover;
+
+
+}
+body {
+    
+    background-image: url('https://i.pinimg.com/736x/5d/73/ea/5d73eaabb25e3805de1f8cdea7df4a42--tumblr-backgrounds-iphone-phone-wallpapers-iphone-wallaper-tumblr.jpg');
+    
+    background-size: cover; /* Adjust as needed */
+}
+
+p{
+    font-size: 15px;
+}
+
